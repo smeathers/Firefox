@@ -17,6 +17,7 @@ datareporting.policy.dataSubmissionEnabled
 browser.onboarding.enabled
 toolkit.telemetry.server = ""
 media.autoplay.enabled
+dom.webnotifications.enabled
 
 browser.newtabpage.activity-stream.default.sites = ""
 
