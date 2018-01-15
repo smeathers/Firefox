@@ -3,6 +3,7 @@ Plug-ins, scripts and configs
 
 
 https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-GB
+https://addons.mozilla.org/en-GB/firefox/addon/british-english-dictionary-2/
 
 
 reader.parse-on-load.enabled
