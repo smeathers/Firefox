@@ -12,6 +12,7 @@ pdfjs.disabled
 geo.enabled
 media.peerconnection.enabled
 keyword.enabled
+browser.fixup.alternate.enabled
 
 browser.ping-centre.telemetry
 network.captive-portal-service.enabled
